@@ -1,3 +1,5 @@
+package primeiraaplicacao;
+
 public class Desafios {
 
     public static void main(String[] args) {
